@@ -23,4 +23,4 @@ You can deal with this science at any age, gender and educational level. You jus
 # Contribute
 Planning this discipline will determine your ideas with your current expertise.
 
-- [Azmi Sahin] (// azmisahin.com)
+- [Azmi Sahin] (//azmisahin.com)
